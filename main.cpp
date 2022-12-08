@@ -1,4 +1,6 @@
 #include <iostream>
+#include"lib.h"
+#include"lib.cpp"
 using namespace std;
 
 int main(){
