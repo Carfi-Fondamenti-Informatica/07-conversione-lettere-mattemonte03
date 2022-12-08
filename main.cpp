@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-#include"lib.h"
 
 int main(){
    char let=0;
