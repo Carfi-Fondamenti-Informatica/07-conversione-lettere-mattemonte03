@@ -1,3 +1,4 @@
+#include"lib.h"
 bool input (char &let){
     if(let>=65 && let<=90) {
         let = let + 32;
