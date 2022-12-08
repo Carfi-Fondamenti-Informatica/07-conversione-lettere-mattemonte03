@@ -1,4 +1,4 @@
-#ifndef 07-CONVERSIONE-LETTERE-MATTEMONTE03_LIB_H
-#define 07-CONVERSIONE-LETTERE-MATTEMONTE03_LIB_H
+#ifndef UPDATE_LIB_H
+#define UPDATE_LIB_H
 bool input (char &let);
 #endif
